@@ -1,1 +1,2 @@
 # Planting_Expert_System
+The main idea of our expert system is to advise the people who have no experience in the field of agriculture and help them avoid the common problems that face anyone who is trying to plant in their home and provide them with the experience needed. The system will provide users with different appropriate information according to what they want to plant exactly and provide them with the appropriate solutions for the problems they face.
